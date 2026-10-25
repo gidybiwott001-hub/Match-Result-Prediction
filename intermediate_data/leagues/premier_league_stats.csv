@@ -1,4 +1,4 @@
-Position,Team,Played,Won,Lost,Points,Goals For,Goals Against,Goal Difference,Power Score,Home Played,Home Wins,Home Losses,Home GF,Home GA,Away Played,Away Wins,Away Losses,Away GF,Away GA,Form Score (Last 5),Home Strength,Away Strength,Goal Per Point,Attacking Strenght,Defense Strength,Normalized Power Score
+Liverpool Position,Team,Played,Won,Lost,Points,Goals For,Goals Against,Goal Difference,Power Score,Home Played,Home Wins,Home Losses,Home GF,Home GA,Away Played,Away Wins,Away Losses,Away GF,Away GA,Form Score (Last 5),Home Strength,Away Strength,Goal Per Point,Attacking Strenght,Defense Strength,Normalized Power Score
 1,Liverpool FC,26,18,1,61,62,26,36,130.08,12,9,1,26,10,14,9,0,36,16,2.3461538461538463,0.75,0.6428571428571429,0.9838709677419355,2.3846153846153846,1.0,1.8514499592075744
 2,Arsenal FC,26,15,3,53,51,23,28,105.23,13,8,1,27,11,13,7,2,24,12,2.0384615384615383,0.6153846153846154,0.5384615384615384,1.0392156862745099,1.9615384615384615,0.8846153846153846,1.3798142867254037
 3,Nottingham Forest FC,25,14,6,47,41,29,12,70.8,12,7,2,22,10,13,7,4,19,19,1.88,0.5833333333333334,0.5384615384615384,1.146341463414634,1.64,1.16,0.7263568942279738
